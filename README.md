@@ -7,7 +7,9 @@ IT infrastructure
 * 🌍  I'm based in Salvador/Bahia
 * ✉️  You can contact me at [contato@matheuscorteletti.com.br](mailto:contato@matheuscorteletti.com.br)
 * 🚀  I'm currently working on [green4tt.com](http://https://green4t.com/)
-* 🧠  I'm learning a new tecnology
+
+# 💻 Tech Stack:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <a href="https://www.x.com/fpswise" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/fpswise?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
