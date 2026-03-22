@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Cloud+Architecture+%E2%98%81%EF%B8%8F;IT+Infrastructure+Engineering+%F0%9F%96%A5%EF%B8%8F;AWS+%7C+Azure+%7C+GCP+%7C+OCI;Linux+%7C+VMware+%7C+Automation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Infrastructure+Specialist+%F0%9F%96%A5%EF%B8%8F;DevOps+Engineer+%E2%9A%99%EF%B8%8F;VMware+Certified+Professional;Fortinet+Certified+Professional;Linux+%7C+Windows+%7C+Virtualization)](https://git.io/typing-svg)
 
 <br/>
 
@@ -46,6 +46,12 @@
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![AWX](https://img.shields.io/badge/AWX-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+## 🔒 Network & Security
+
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![FortiClient EMS](https://img.shields.io/badge/FortiClient%20EMS-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
 
 </div>
 
