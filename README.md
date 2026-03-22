@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:003320,100:00ff88&height=200&section=header&text=Matheus%20Corteletti&fontSize=50&fontColor=00ff88&animation=fadeIn&fontAlignY=38&desc=IT%20Infrastructure%20%7C%20DevOps%20%7C%20Security&descAlignY=60&descSize=18&fontAlignX=50&descAlignX=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Matheus%20Corteletti&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Infrastructure%20%7C%20DevOps%20%7C%20Security&descAlignY=60&descSize=18" />
 
 <br/>
 
@@ -84,4 +84,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:003320,100:0a0a0a&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
