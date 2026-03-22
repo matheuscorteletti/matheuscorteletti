@@ -49,12 +49,12 @@
 
 ## 📊 GitHub Stats
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheuscorteletti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscorteletti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=wisecort&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisecort&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=matheuscorteletti&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=wisecort&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
 </div>
 
@@ -65,14 +65,14 @@
 ### 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheuscorteletti/matheuscorteletti/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheuscorteletti/matheuscorteletti/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/matheuscorteletti/matheuscorteletti/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wisecort/matheuscorteletti/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wisecort/matheuscorteletti/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wisecort/matheuscorteletti/output/github-contribution-grid-snake.svg">
 </picture>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=matheuscorteletti&color=00b4d8&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=wisecort&color=00b4d8&style=for-the-badge&label=Profile+Views)
 
 </div>
 
