@@ -80,10 +80,6 @@ Especialista sênior em infraestrutura, redes e segurança. Atuo na modernizaç�
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=wisecort&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wisecort&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8&exclude_repo=wisecort)](https://github.com/wisecort)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wisecort&theme=react-dark&hide_border=true&area=true&radius=12)](https://github.com/wisecort)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=wisecort&color=00b4d8&style=flat-square&label=Profile+Views)
 
 </div>
