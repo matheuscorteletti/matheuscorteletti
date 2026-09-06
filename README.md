@@ -14,7 +14,7 @@
 
 ### 🧠 Sobre
 
-Infraestrutura de TI com foco em virtualização, redes e segurança — hoje migrando cada vez mais pra **cloud native**, containers e automação. Gosto de colocar a mão na massa em laboratórios reais (Proxmox, OKD, GitOps) antes de levar pra produção.
+Especialista sênior em infraestrutura, redes e segurança. Atuo na modernização de ambientes on-premise para cloud native — Kubernetes, OpenShift e automação via GitOps.
 
 ---
 
@@ -66,11 +66,21 @@ Infraestrutura de TI com foco em virtualização, redes e segurança — hoje mi
 
 ---
 
+### 📚 Foco atual
+
+- Arquiteturas Kubernetes/OpenShift em produção e homelab
+- GitOps com ArgoCD
+- Observabilidade com Prometheus + Grafana
+
+---
+
 <div align="center">
 
 ### 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=wisecort&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wisecort&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/wisecort)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wisecort&theme=react-dark&hide_border=true&area=true)](https://github.com/wisecort)
 
