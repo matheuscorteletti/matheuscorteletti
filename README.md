@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Matheus%20Corteletti&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Infrastructure%20%7C%20DevOps%20%7C%20Security&descAlignY=60&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Matheus%20Corteletti&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Infrastructure+%26+DevOps+Engineer;VMware+%7C+Fortinet+Certified;Kubernetes+%7C+OpenShift+%7C+GitOps)](https://git.io/typing-svg)
 
@@ -22,7 +22,7 @@ Especialista sênior em infraestrutura, redes e segurança. Atuo na modernizaç�
 
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
-![Hyper--V](https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Hyper-V](https://img.shields.io/badge/Hyper-V-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white)
 
@@ -80,9 +80,9 @@ Especialista sênior em infraestrutura, redes e segurança. Atuo na modernizaç�
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=wisecort&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wisecort&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/wisecort)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wisecort&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8&exclude_repo=wisecort)](https://github.com/wisecort)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wisecort&theme=react-dark&hide_border=true&area=true)](https://github.com/wisecort)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wisecort&theme=react-dark&hide_border=true&area=true&radius=12)](https://github.com/wisecort)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=wisecort&color=00b4d8&style=flat-square&label=Profile+Views)
 
