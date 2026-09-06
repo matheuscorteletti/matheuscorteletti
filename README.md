@@ -72,7 +72,7 @@ Infraestrutura de TI com foco em virtualização, redes e segurança — hoje mi
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=wisecort&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wisecort&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff)](https://github.com/wisecort)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wisecort&theme=react-dark&hide_border=true&area=true)](https://github.com/wisecort)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=wisecort&color=00b4d8&style=flat-square&label=Profile+Views)
 
